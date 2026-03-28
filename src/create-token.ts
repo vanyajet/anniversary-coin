@@ -59,7 +59,7 @@ const TOKEN_NAME     = 'Anniversary Coin';
 const TOKEN_SYMBOL   = 'ANN';
 const TOKEN_DECIMALS = 9;
 const TOKEN_URI      =
-  'https://emerald-fancy-sparrow-826.mypinata.cloud/ipfs/bafkreibxlhrbqqliyqgp3ijbmrbhx26ta6qimv6daw3pfpclbtdd5ewq34';
+  'https://emerald-fancy-sparrow-826.mypinata.cloud/ipfs/bafkreihgjw7vudyi3mru6jclom56ogrid5hifnp75coawrkpllikjp2qhe';
 
 /** Multiplier to convert whole ANN to the smallest on-chain unit (lamports equivalent) */
 const DECIMALS_FACTOR = 10n ** BigInt(TOKEN_DECIMALS);
