@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+
+# Environment — NEVER commit secrets
+.env
+
+# Generated wallet keypairs — private keys live here
+wallets/
+
+# TypeScript build output
+dist/
+
+# macOS
+.DS_Store
+
+# Editor
+.idea/
+.vscode/
+*.swp
