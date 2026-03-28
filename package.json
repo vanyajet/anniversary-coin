@@ -6,7 +6,8 @@
   "scripts": {
     "generate-wallets": "ts-node src/generate-wallets.ts",
     "create-token": "ts-node src/create-token.ts",
-    "daily-mint": "ts-node src/daily-mint.ts"
+    "daily-mint": "ts-node src/daily-mint.ts",
+    "distribute": "ts-node src/distribute.ts"
   },
   "dependencies": {
     "@metaplex-foundation/mpl-token-metadata": "^3.4.0",
